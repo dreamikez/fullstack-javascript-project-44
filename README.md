@@ -5,4 +5,4 @@
 
 ### Демонстрация работы:
 
-[![asciicast](https://asciinema.org/a/PbrQ8jeav2c3THmc.svg)](https://asciinema.org/a/PbrQ8jeav2c3THmc)
+[![asciicast](https://asciinema.org/a/PbrQ8jeav2c3THmc.png)](https://asciinema.org/a/PbrQ8jeav2c3THmc)
