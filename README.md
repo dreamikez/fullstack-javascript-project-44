@@ -3,6 +3,9 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dreamikez-organization_dreamikez&metric=alert_status&token=043a7366b4d96de7cf63f668c4f34ba6fd4751fa)](https://sonarcloud.io/summary/new_code?id=dreamikez-organization_dreamikez)
 
-### Демонстрация работы:
+### Демонстрация работы brain-even:
 
 [![asciicast](https://asciinema.org/a/PbrQ8jeav2c3THmc.png)](https://asciinema.org/a/PbrQ8jeav2c3THmc)
+
+### Демострация работы brain-calc:
+[![asciicast](https://asciinema.org/a/cUvkNTwCZzmKEnUW.png)](https://asciinema.org/a/cUvkNTwCZzmKEnUW)
