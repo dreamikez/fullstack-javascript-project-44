@@ -9,3 +9,9 @@
 
 ### Демострация работы brain-calc:
 [![asciicast](https://asciinema.org/a/cUvkNTwCZzmKEnUW.png)](https://asciinema.org/a/cUvkNTwCZzmKEnUW)
+
+
+### Демострация работы brain-gcd:
+[![asciicast](https://asciinema.org/a/qqVwm9ROgIlciB58.png)](https://asciinema.org/a/qqVwm9ROgIlciB58)
+
+
