@@ -15,3 +15,5 @@
 [![asciicast](https://asciinema.org/a/qqVwm9ROgIlciB58.png)](https://asciinema.org/a/qqVwm9ROgIlciB58)
 
 
+### Демострация работы brain-progression:
+[![asciicast](https://asciinema.org/a/1818MHyj0BV7HBw2.png)](https://asciinema.org/a/1818MHyj0BV7HBw2)
