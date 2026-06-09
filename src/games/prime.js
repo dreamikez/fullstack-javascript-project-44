@@ -1,18 +1,18 @@
 import runGame from "../index.js"
 import { getRandomNumber } from "../random.js"
 
-const isPrime  = (number) => {
+const isPrime = (number) => {
     if (number < 2) {
-        return "no"
+        return false
     }
     
     for (let i = 2; i < number; i++){
         if (number % i === 0) {
-            return "no"
+            return false
         }
     }
 
-    return "yes"
+    return true
 }
 
 const generateRound = () => {
